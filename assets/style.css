@@ -1,10 +1,10 @@
 body {
-    background-color:black;
+    background-color:red;
     font-family: Bai Jamjuree;
 }
 
 footer{
-    background-color: aqua;
+    background-color: black;
     color: 0;
     position: fixed;
     width: 100%;
